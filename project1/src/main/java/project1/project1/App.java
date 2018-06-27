@@ -13,10 +13,6 @@ public class App
         System.out.println( "selam arkadas" );
         System.out.println( "selam arkadas" );
 
-  
-
-        
-
 
     }
 }
