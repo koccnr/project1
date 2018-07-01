@@ -7,6 +7,11 @@ public class App3 {
 	}
 	
 public void xy() {
+	
+	int i=13;
+	int b=62;
+	
+	System.out.println(i-b);
 		
 	}
 }
